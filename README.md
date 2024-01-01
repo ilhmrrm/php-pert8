@@ -11,7 +11,7 @@ This repository serves as a practical guide to learn how to create a simple CRUD
 ### How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/ilhmrrm/php-pert8.git
    ```
 2. **Configure the Database:**
    - Create a MySQL database with the desired name.

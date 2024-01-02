@@ -1,5 +1,7 @@
 CREATE DATABASE universitas;
 
+USE universitas;
+
 CREATE TABLE mahasiswa_npm (
     id_mahasiswa INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     nama VARCHAR(50),

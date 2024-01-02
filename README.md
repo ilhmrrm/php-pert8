@@ -15,7 +15,7 @@ This repository serves as a practical guide to learn how to create a simple CRUD
    ```
 2. **Configure the Database:**
    - Create a MySQL database with the desired name.
-   - Import the database schema from the `database.sql` file.
+   - Import the database schema from the `config/universitas.sql` file.
    - Adjust the database connection configuration in the `database/config.php` file.
 
 3. **Open the Application:**
